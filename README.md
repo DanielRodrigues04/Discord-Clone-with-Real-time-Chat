@@ -2,8 +2,6 @@
 
 A real-time chat application built with React, TypeScript, and Supabase, featuring a Discord-like interface and real-time messaging capabilities.
 
-![Discord Clone Screenshot](https://images.unsplash.com/photo-1614680376593-902f74cf0d41?auto=format&fit=crop&q=80&w=1200)
-
 ## Features
 
 - 🔐 **Authentication System**
